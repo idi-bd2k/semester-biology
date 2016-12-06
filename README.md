@@ -1,6 +1,6 @@
 # Data Carpentry for Biologists - Semester Course
 
-This is a [forkable](https://help.github.com/articles/fork-a-repo/) set of teaching materials for teaching biologists how to work
+This is the IDI-BD2k projects copy of a Data Carpentry [forkable](https://help.github.com/articles/fork-a-repo/) set of teaching materials for teaching biologists how to work
 with data through programming, database management and computing more generally.
 
 This repository contains the complete teaching materials (excluding exams and
